@@ -1,8 +1,8 @@
 # Hello
 
-I am an information security professional by trade, interested in exploring the intersections among technology, cities, infrastructures, and urban resilience.
+I am an information security professional by trade, formerly an educator and technology programs coordinator for a local community center in Seattle. In my previous roles, I worked primarily with immigrant and refugee populations, low-income, individuals lacking formal housing, those with Limited English Profiency (LEP), and communities historically and institutionally underserved.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm interested in the intersections among emerging technologies, cities, infrastructures, and urban resilience. I focus my research on human factors, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations, examining the role of power, economics, politics, and culture on technology adoption by cities in an effort to withstand various types of disruptions caused by rapid urbanization, natural disasters and climate change, war/terrorism, etc.
 
 ### Markdown
 
