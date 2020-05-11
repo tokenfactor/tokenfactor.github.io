@@ -8,6 +8,12 @@ I am an information security professional by trade, formerly an educator and tec
 - International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019)
 - UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018)
 
+## Connect With Me
+CV: Available upon request <br />
+Email: lovelyfdomingo@icloud.com <br />
+Twitter: http://www.twitter.com/wandermiles<br />
+LinkedIn: http://linkedin.com/in/lovelyd
+
 # Research
 I'm interested in the intersections among emerging technologies, infrastructures, and urban resilience in city-wide efforts to withstand various types of disruptions caused by rapid urbanization, disasters caused by natural causes or cyber warfare, climate change, etc. I focus my research on human factors, examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
 
@@ -20,9 +26,3 @@ See also: human factors, 'Smart' Cities initiatives, emerging technologies, digi
 - Domingo, L.F. (2019) “Urban Resilience Through Smart Cities Initiatives in Southeast Asia.” March 10.
 - Domingo, L.F. (2018). “Transforming Emergency Communications.” June 1.
 - Domingo, L.F. (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
-
-# Connect With Me
-CV: Available upon request <br />
-Email: lovelyfdomingo@icloud.com <br />
-Twitter: http://www.twitter.com/wandermiles<br />
-LinkedIn: http://linkedin.com/in/lovelyd
