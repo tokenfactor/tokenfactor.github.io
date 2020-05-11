@@ -3,7 +3,7 @@ My name is Lovely-Frances Domingo.
 
 I am an information security professional by trade, formerly an educator and technology programs coordinator for a local community center in Seattle. I completed my Master of Science in Information Management (MSIM) from the University of Washington (UW) Information School, and my Bachelor of Arts in English, with a minor in History and significant courses taken in Southeast Asian studies from UW. 
 
-### Academic and Professional Affiliations
+## Academic and Professional Affiliations
 - ISACA (Information Systems Audit and Control Association, Inc.) – Puget Sound Chapter (Current)
 - International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019)
 - UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018)
