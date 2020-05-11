@@ -4,10 +4,10 @@ My name is Lovely-Frances Domingo.
 I am an information security/information assurance consultant (PCI DSS 3.2.1/ NIST 800-37/ NIST 800-53) for a cybersecurity firm, formerly an educator and technology programs coordinator for a local community center in Seattle. I completed my Master of Science in Information Management (MSIM) from the University of Washington (UW) Information School, and my Bachelor of Arts in English, with a minor in History and significant courses taken in Southeast Asian studies from UW. 
 
 ## Connect With Me
-Curriculum Vitae: <a href="LFD_CV2020.pdf/" >LFD 2020</a><br />
+Curriculum Vitae: <a href="./LFD_CV2020.pdf/" >LFD 2020</a><br />
 Email: lovelyfdomingo@icloud.com <br />
-Twitter: http://www.twitter.com/wandermiles<br />
-LinkedIn: http://linkedin.com/in/lovelyd
+Twitter: <https://www.twitter.com/wandermiles><br />
+LinkedIn: <https://linkedin.com/in/lovelyd>
 
 # Research
 I'm interested in the intersections among emerging technologies, infrastructures, and urban resilience. I look at initiatives meant to develop and build urban resilience -- the capacity withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I focus my research on human factors, examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
