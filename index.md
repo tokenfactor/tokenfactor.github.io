@@ -16,10 +16,10 @@ See also: human factors, 'Smart' Cities initiatives, emerging technologies, digi
 - Domingo, L.F. (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
 
 ## Academic and Professional Affiliations
-- ISACA (Information Systems Audit and Control Association, Inc.) – Puget Sound Chapter
-- International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies
-- UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar
-- Recipient of the Dean's Fellowship at the UW Information School
+- ISACA (Information Systems Audit and Control Association, Inc.) – Puget Sound Chapter (Current)
+- International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019)
+- UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018)
+- Recipient of the Dean's Fellowship at the UW Information School (2017-2019)
 
 ### Contact
 You can contact me at lovelyfdomingo@icloud.com.
