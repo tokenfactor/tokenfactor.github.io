@@ -21,7 +21,7 @@ See also: human factors, 'Smart' Cities initiatives, emerging technologies, digi
 - Domingo, L.F. (2018). “Transforming Emergency Communications.” June 1.
 - Domingo, L.F. (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
 
-### Connect With Me
+# Connect With Me
 CV: Available upon request <br />
 Email: lovelyfdomingo@icloud.com <br />
 Twitter: http://www.twitter.com/wandermiles<br />
