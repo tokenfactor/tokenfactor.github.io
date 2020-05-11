@@ -1,11 +1,12 @@
-
 # Hello
 My name is Lovely-Frances Domingo.
 
-I am an information security professional by trade, formerly an educator and technology programs coordinator for a local community center in Seattle. I completed my Master of Science in Information Management (MSIM) from the University of Washington (UW) Information School, and my Bachelor of Arts in English, with a minor in History from the UW.
+I am an information security professional by trade, formerly an educator and technology programs coordinator for a local community center in Seattle. I completed my Master of Science in Information Management (MSIM) from the University of Washington (UW) Information School, and my Bachelor of Arts in English, with a minor in History and significant courses taken in Southeast Asian studies from UW. 
 
 # Research
-I'm interested in the intersections among emerging technologies, cities, infrastructures, and urban resilience. I focus my research on human factors, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations. I examine the role of power, economics, politics, and culture on technology adoption by cities in an effort to withstand various types of disruptions caused by rapid urbanization, natural disasters and climate change, war/terrorism, etc.
+I'm interested in the intersections among emerging technologies, infrastructures, and urban resilience in city-wide efforts to withstand various types of disruptions caused by rapid urbanization, disasters caused by natural causes or cyber warfare, climate change, etc. I focus my research on human factors, examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations.
+
+See also: 'Smart' Cities initiatives, digital transformation in city governments, cybersecurity and risk in public sector, human factors
 
 ## Published and Non-Published Works
 - Samford, H. and Domingo, L.F. (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
