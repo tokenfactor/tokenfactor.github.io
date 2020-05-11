@@ -22,5 +22,6 @@ See also: human factors, 'Smart' Cities initiatives, emerging technologies, digi
 - UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018)
 - Recipient of the Dean's Fellowship at the UW Information School (2017-2019)
 
-### Contact
-You can contact me at lovelyfdomingo@icloud.com.
+### Connect With Me
+Email: lovelyfdomingo@icloud.com
+Twitter: http://www.twitter.com/wandermiles
