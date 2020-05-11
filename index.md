@@ -4,7 +4,7 @@ My name is Lovely-Frances Domingo.
 I am an information security/information assurance consultant (PCI DSS 3.2.1/ NIST 800-37/ NIST 800-53) for a cybersecurity firm, formerly an educator and technology programs coordinator for a local community center in Seattle. I completed my Master of Science in Information Management (MSIM) from the University of Washington (UW) Information School, and my Bachelor of Arts in English, with a minor in History and significant courses taken in Southeast Asian studies from UW. 
 
 ## Connect With Me
-Curriculum Vitae: Available upon request.<br />
+Curriculum Vitae: <a href="https://tokenfactor.github.io/LFD_CV2020.pdf">2020</a><br />
 Email: lovelyfdomingo@icloud.com <br />
 Twitter: <https://www.twitter.com/wandermiles><br />
 LinkedIn: <https://linkedin.com/in/lovelyd>
