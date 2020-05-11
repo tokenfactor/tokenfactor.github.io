@@ -9,7 +9,7 @@ Email: lovelyfdomingo@icloud.com <br />
 Twitter: http://www.twitter.com/wandermiles<br />
 LinkedIn: http://linkedin.com/in/lovelyd
 
-## Research
+# Research
 I'm interested in the intersections among emerging technologies, infrastructures, and urban resilience. I look at initiatives meant to develop and build urban resilience -- the capacity withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I focus my research on human factors, examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
 
 See also: human factors, digital equity, 'Smart' Cities initiatives, emerging technologies, digital transformation in government, cybersecurity and risk in the public sector
@@ -22,7 +22,7 @@ See also: human factors, digital equity, 'Smart' Cities initiatives, emerging te
 - Domingo, L.F. (2018). “Transforming Emergency Communications.” June 1.
 - Domingo, L.F. (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
 
-## Academic and Professional Affiliations
+# Academic and Professional Affiliations
 - ISACA (Information Systems Audit and Control Association, Inc.) – Puget Sound Chapter (2019-Present)
 - International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019)
 - UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018)
