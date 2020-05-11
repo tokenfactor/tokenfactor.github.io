@@ -3,6 +3,15 @@ My name is Lovely-Frances Domingo.
 
 I am an information security professional by trade, formerly an educator and technology programs coordinator for a local community center in Seattle. I completed my Master of Science in Information Management (MSIM) from the University of Washington (UW) Information School, and my Bachelor of Arts in English, with a minor in History and significant courses taken in Southeast Asian studies from UW. 
 
+### Academic and Professional Affiliations
+- ISACA (Information Systems Audit and Control Association, Inc.) – Puget Sound Chapter (Current)
+- International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019)
+- UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018)
+
+## Connect With Me
+Email: lovelyfdomingo@icloud.com <br />
+Twitter: http://www.twitter.com/wandermiles
+
 # Research
 I'm interested in the intersections among emerging technologies, infrastructures, and urban resilience in city-wide efforts to withstand various types of disruptions caused by rapid urbanization, disasters caused by natural causes or cyber warfare, climate change, etc. I focus my research on human factors, examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
 
@@ -16,12 +25,3 @@ See also: human factors, 'Smart' Cities initiatives, emerging technologies, digi
 - Domingo, L.F. (2018). “Transforming Emergency Communications.” June 1.
 - Domingo, L.F. (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
 
-## Academic and Professional Affiliations
-- ISACA (Information Systems Audit and Control Association, Inc.) – Puget Sound Chapter (Current)
-- International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019)
-- UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018)
-- Recipient of the Dean's Fellowship at the UW Information School (2017-2019)
-
-### Connect With Me
-Email: lovelyfdomingo@icloud.com <br />
-Twitter: http://www.twitter.com/wandermiles
