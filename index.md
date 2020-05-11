@@ -23,5 +23,5 @@ See also: human factors, 'Smart' Cities initiatives, emerging technologies, digi
 - Recipient of the Dean's Fellowship at the UW Information School (2017-2019)
 
 ### Connect With Me
-Email: lovelyfdomingo@icloud.com
+Email: lovelyfdomingo@icloud.com <br />
 Twitter: http://www.twitter.com/wandermiles
