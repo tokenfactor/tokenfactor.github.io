@@ -12,7 +12,7 @@ LinkedIn: http://linkedin.com/in/lovelyd
 ## Research
 I'm interested in the intersections among emerging technologies, infrastructures, and urban resilience in city-wide efforts to withstand various types of disruptions caused by rapid urbanization, disasters caused by natural causes or cyber warfare, climate change, etc. I focus my research on human factors, examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
 
-See also: human factors, digital equity, 'Smart' Cities initiatives, emerging technologies, digital transformation in city governments, cybersecurity and risk in the public sector
+See also: human factors, digital equity, 'Smart' Cities initiatives, emerging technologies, digital transformation in government, cybersecurity and risk in the public sector
 
 ## Published and Other Works
 - Samford, H. and Domingo, L.F. (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
