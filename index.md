@@ -6,10 +6,11 @@ I am an information security professional by trade, formerly an educator and tec
 # Research
 I'm interested in the intersections among emerging technologies, infrastructures, and urban resilience in city-wide efforts to withstand various types of disruptions caused by rapid urbanization, disasters caused by natural causes or cyber warfare, climate change, etc. I focus my research on human factors, examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
 
-See also: human factors, 'Smart' Cities initiatives, emerging technologies, digital transformation in city governments, cybersecurity and risk in the public sector, 
+See also: human factors, 'Smart' Cities initiatives, emerging technologies, digital transformation in city governments, cybersecurity and risk in the public sector
 
 ## Published and Non-Published Works
 - Samford, H. and Domingo, L.F. (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
+- Crooks, E., Domingo. L.F., Guan, Y., & Saxena. H. (2019) “UX Design for Asset Inventory and Vulnerability Management” Capstone Project. <https://ischool.uw.edu/capstone/projects/2019/ux-design-asset-inventory-and-vulnerability-management>
 - Domingo, L.F. (2019). “Emerging Artificial Intelligence Issues: Discussion from the Third Cybersecurity and Technology Futures Event.” UW Jackson School’s International Policy Institute. March 15. <https://jsis.washington.edu/news/emerging-artificial-intelligence-issues-discussion-from-the-third-cybersecurity-and-technology-futures-event>
 - Domingo, L.F. (2019) “Urban Resilience Through Smart Cities Initiatives in Southeast Asia.” March 10.
 - Domingo, L.F. (2018). “Transforming Emergency Communications.” June 1.
