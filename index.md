@@ -10,7 +10,7 @@ Twitter: <https://www.twitter.com/wandermiles><br />
 LinkedIn: <https://linkedin.com/in/lovelyd>
 
 # Research
-I'm interested in the intersections among emerging technologies, local and regional governments and their infrastructures, and urban resilience. I look at initiatives meant to develop and build urban resilience -- the capacity of cities withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I focus my research on human factors, examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
+I'm interested in the intersections among emerging technologies, local and regional governments and their infrastructures, and urban resilience. I look at initiatives meant to develop and build urban resilience -- the capacity of cities withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I focus my research on human factors, examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe. 
 
 See also: human factors, digital equity, 'Smart' Cities initiatives, emerging technologies, digital transformation in government, cybersecurity and risk in the public sector
 
