@@ -10,9 +10,9 @@ Twitter: <https://www.twitter.com/wandermiles><br />
 LinkedIn: <https://linkedin.com/in/lovelyd>
 
 # Research
-I'm interested in the intersections among emerging technologies, local and regional governments and their infrastructures, and urban resilience. I look at initiatives meant to develop and build urban resilience -- the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I focus my research on human factors, critical systems & infrastructures (people, process, technology). I examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on urban planning, and vulnerable populations across the globe. 
+I'm interested in the intersections among emerging technologies, local and regional governments and their infrastructures, and urban resilience. I look at initiatives meant to develop and build urban resilience -- the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on urban planning, and vulnerable populations across the globe. 
 
-See also: human factors, digital equity, 'Smart' Cities initiatives, emerging technologies, digital transformation in government, cybersecurity and risk in the public sector
+See also: digital equity, digital transformation in government, 'Smart' Cities initiatives, emerging technologies, cybersecurity, privacy, and risk in the public sector, urban planning
 
 ## Published and Other Works
 - Samford, H. and Domingo, L.F. (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
