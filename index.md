@@ -15,12 +15,12 @@ I'm interested in the intersections among emerging technologies, civic infrastru
 See also: digital equity, crisis informatics, urban planning, 'Smart' Cities initiatives, cybersecurity, privacy, and risk in the public sector, ubiquitous computing, critical infrastructure, ICT4D
 
 ## Published and Other Works
-- Samford, H. and Domingo, L.F. (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
 - Crooks, E., Domingo. L.F., Guan, Y., & Saxena. H. (2019) “UX Design for Asset Inventory and Vulnerability Management” Capstone Project. <https://ischool.uw.edu/capstone/projects/2019/ux-design-asset-inventory-and-vulnerability-management>
 - Domingo, L.F. (2019). “Emerging Artificial Intelligence Issues: Discussion from the Third Cybersecurity and Technology Futures Event.” UW Jackson School’s International Policy Institute. March 15. <https://jsis.washington.edu/news/emerging-artificial-intelligence-issues-discussion-from-the-third-cybersecurity-and-technology-futures-event>
 - Domingo, L.F. (2019) “Urban Resilience Through Smart Cities Initiatives in Southeast Asia.” March 10.
 - Domingo, L.F. (2018). “Transforming Emergency Communications.” June 1.
 - Domingo, L.F. (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
+- Samford, H. and Domingo, L.F. (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
 
 # Academic and Professional Affiliations
 - ISACA (Information Systems Audit and Control Association, Inc.) – Puget Sound Chapter (2019-Present)
