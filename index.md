@@ -8,6 +8,7 @@ Curriculum Vitae: Available upon request.<br />
 Email: lovelyfdomingo@icloud.com <br />
 Twitter: <https://www.twitter.com/wandermiles><br />
 LinkedIn: <https://linkedin.com/in/lovelyd>
+Medium: https://medium.com/@wandermiles
 
 # Research
 I'm interested in the intersections among emerging technologies, civic infrastructures, and urban resilience. I look at initiatives meant to develop and build urban resilience -- the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe. 
