@@ -5,7 +5,7 @@ I am an information security/information assurance consultant for a cybersecurit
 
 ## Connect With Me
 Curriculum Vitae: Available upon request.<br />
-Email: lovelyfdomingo@icloud.com <br />
+Email: lovely.f.domingo@gmail.com <br />
 Twitter: <https://www.twitter.com/wandermiles><br />
 LinkedIn: <https://linkedin.com/in/lovelyd> <br />
 Medium: <https://medium.com/@wandermiles>
