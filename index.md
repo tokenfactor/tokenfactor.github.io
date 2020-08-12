@@ -24,6 +24,7 @@ See also: information security, risk, privacy, digital equity, urban planning, '
 - Samford, H. and Domingo, L.F. (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
 
 # Academic and Professional Affiliations
+- PCI Data Security Standard (PCI DSS) Associate Qualified Security Assessor (AQSA) (2020-Present)
 - ISACA (Information Systems Audit and Control Association, Inc.) – Puget Sound Chapter (2019-Present)
 - International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019)
 - UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018)
