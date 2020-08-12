@@ -11,9 +11,9 @@ LinkedIn: <https://linkedin.com/in/lovelyd> <br />
 Medium: <https://medium.com/@wandermiles>
 
 # Research
-I'm interested in the intersections among emerging technologies, civic systems & infrastructures, and urban resilience. I look at initiatives meant to develop and build urban resilience -- the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe. 
+I'm interested in the intersections among emerging technologies, systems & infrastructures, information security, and urban resilience. I look at initiatives meant to develop and build urban resilience -- the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe. 
 
-See also: digital equity, crisis informatics, urban planning, 'Smart' Cities initiatives, cybersecurity, privacy, and risk in the public sector, ubiquitous computing, critical infrastructure, ICT4D
+See also: information security, risk, privacy, digital equity, urban planning, 'smart' cities initiatives, ubiquitous computing, critical infrastructure, ICT4D
 
 ## Published and Other Works
 - Crooks, E., Domingo. L.F., Guan, Y., & Saxena. H. (2019) “UX Design for Asset Inventory and Vulnerability Management” Capstone Project. <https://ischool.uw.edu/capstone/projects/2019/ux-design-asset-inventory-and-vulnerability-management>
