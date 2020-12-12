@@ -17,6 +17,7 @@ See also: information security, risk, privacy, digital equity, urban planning, �
 
 ## Published and Non-Published Works
 - Crooks, E., Domingo. L.F., Guan, Y., & Saxena. H. (2019) “UX Design for Asset Inventory and Vulnerability Management” Capstone Project. https://ischool.uw.edu/capstone/projects/2019/ux-design-asset-inventory-and-vulnerability-management
+- Crooks, E., Cross, I., Domingo L.F. (2019) "Seattle Police Department Use of Force Visualization." Created for an interdisciplinary UW graduate course - Technologies of the City. https://public.tableau.com/profile/ian.cross#!/vizhome/SPDUseofForce/SPD-UseofForceRd_2
 - Domingo, L.F. (2019). “Emerging Artificial Intelligence Issues: Discussion from the Third Cybersecurity and Technology Futures Event.” UW Jackson School’s International Policy Institute. March 15. <https://jsis.washington.edu/news/emerging-artificial-intelligence-issues-discussion-from-the-third-cybersecurity-and-technology-futures-event>
 - Domingo, L.F. (2019) “Urban Resilience Through Smart Cities Initiatives in Southeast Asia.” March 10.  https://tokenfactor.github.io/Domingo_LovelyFrances_LetterMaterials_SampleWriting_3.pdf 
 - Domingo, L.F. (2018). “Transforming Emergency Communications.” June 1.  https://tokenfactor.github.io/Domingo_LovelyFrances_SampleWriting_2.pdf 
