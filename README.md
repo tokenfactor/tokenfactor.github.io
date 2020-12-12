@@ -11,8 +11,8 @@ See also: 'Smart' Cities initiatives, digital transformation in city governments
 ## Published and Non-Published Works
 - Samford, H. and Domingo, L.F. (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
 - Domingo, L.F. (2019). “Emerging Artificial Intelligence Issues: Discussion from the Third Cybersecurity and Technology Futures Event.” UW Jackson School’s International Policy Institute. March 15. <https://jsis.washington.edu/news/emerging-artificial-intelligence-issues-discussion-from-the-third-cybersecurity-and-technology-futures-event>
-- Domingo, L.F. (2019) “Urban Resilience Through Smart Cities Initiatives in Southeast Asia.” March 10.
-- Domingo, L.F. (2018). “Transforming Emergency Communications.” June 1.
+- Domingo, L.F. (2019) “Urban Resilience Through Smart Cities Initiatives in Southeast Asia.” March 10. <https://tokenfactor.github.io/Domingo_LovelyFrances_LetterMaterials_SampleWriting_3.pdf>
+- Domingo, L.F. (2018). “Transforming Emergency Communications.” June 1. <https://tokenfactor.github.io/Domingo_LovelyFrances_SampleWriting_2.pdf >
 - Domingo, L.F. (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
 
 ## Academic and Professional Affiliations
