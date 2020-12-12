@@ -4,10 +4,11 @@ My name is Lovely-Frances Domingo.
 I am an information security/information assurance consultant for a cybersecurity firm, formerly an educator and technology programs coordinator for a local community center in Seattle. I completed my Master of Science in Information Management (MSIM) from the University of Washington (UW) Information School, my Bachelor of Arts in English, with a minor in History and have taken significant courses in Southeast Asian studies (Jackson School of International Studies) from UW.
 
 # Connect With Me
-Curriculum Vitae: Available upon request.
-Twitter: https://www.twitter.com/wandermiles
-LinkedIn: https://linkedin.com/in/lovelyd
-Medium: https://medium.com/@wandermiles
+- CV: Available upon request.
+- Email: lovely.f.domingo@gmail.com
+- Twitter: https://www.twitter.com/wandermiles
+- LinkedIn: https://linkedin.com/in/lovelyd
+- Medium: https://medium.com/@wandermiles
 
 # Research
 I’m interested in the intersections among emerging technologies, systems & infrastructures, information security, and urban resilience. I look at initiatives meant to develop and build urban resilience – the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
@@ -22,7 +23,7 @@ See also: information security, risk, privacy, digital equity, urban planning, �
 - Domingo, L.F. (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
 - Samford, H. and Domingo, L.F. (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
 
-## Academic and Professional Affiliations
+# Academic and Professional Affiliations
 - Filipino American National Historic Society (FANHS)
 - PCI Data Security Standard (PCI DSS) Associate Qualified Security Assessor (AQSA)
 - WiCyS - Women in Cybersecurity (2019-Present)
