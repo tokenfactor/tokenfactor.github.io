@@ -18,10 +18,8 @@ See also: information security, risk, privacy, digital equity, urban planning, â
 
 # Connect With Me
 - CV: Available upon request.
-- Email: lovely.f.domingo@gmail.com
-- Twitter: https://www.twitter.com/wandermiles
-- LinkedIn: https://linkedin.com/in/lovelyd
-- Medium: https://medium.com/@wandermiles
+- Twitter: <https://www.twitter.com/wandermiles>
+- LinkedIn: <https://linkedin.com/in/lovelyd>
+- Medium: <https://medium.com/@wandermiles>
 
-Last Updated 28 March 2021
-L.F.Domingo
+Last Updated 28 March 2021 L.F.Domingo
