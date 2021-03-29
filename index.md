@@ -1,5 +1,5 @@
 # Hello
-My name is Lovely-Frances Domingo. I am an information security/information assurance consultant, formerly an educator and technology programs coordinator for a local community center in Seattle. I am an alumna of University of Washington (BA English, minor in History; MS Information Management) where I was an International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019) and a Collaborative Project Scholar for the UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018).
+My name is Lovely-Frances Domingo. I am an information security/information assurance consultant, formerly an educator and technology programs coordinator for a local community center in Seattle. I am an alumna of University of Washington (BA English, minor in History; MS Information Management) where I was an International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019) and a Collaborative Project Scholar for the UW Center for Communication, Difference and Equity (CCDE).
 
 Starting fall 2021, I'm starting my PhD at [TBA]. :)
 
