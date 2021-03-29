@@ -1,14 +1,5 @@
 # Hello
-My name is Lovely-Frances Domingo.
-
-I am an information security/information assurance consultant for a cybersecurity firm, formerly an educator and technology programs coordinator for a local community center in Seattle. I completed my Master of Science in Information Management (MSIM) from the University of Washington (UW) Information School, my Bachelor of Arts in English, with a minor in History and have taken significant courses in Southeast Asian studies (Jackson School of International Studies) from UW.
-
-# Connect With Me
-- CV: Available upon request.
-- Email: lovely.f.domingo@gmail.com
-- Twitter: https://www.twitter.com/wandermiles
-- LinkedIn: https://linkedin.com/in/lovelyd
-- Medium: https://medium.com/@wandermiles
+My name is Lovely-Frances Domingo. I am an information security/information assurance consultant for a cybersecurity firm, formerly an educator and technology programs coordinator for a local community center in Seattle. I am an alumna of University of Washington (BA English, minor in History; MS Information Management), formerly an International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019) and a Collaborative Projet Scholar for the UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018).
 
 # Research
 I’m interested in the intersections among emerging technologies, systems & infrastructures, information security, and urban resilience. I look at initiatives meant to develop and build urban resilience – the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
@@ -25,17 +16,12 @@ See also: information security, risk, privacy, digital equity, urban planning, �
 - Domingo, L.F. (2018). “Transforming Emergency Communications.” June 1.
 - Domingo, L.F. (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
 
-
-# Academic and Professional Affiliations
-- Filipino American National Historic Society (FANHS)
-- PCI Data Security Standard (PCI DSS) Associate Qualified Security Assessor (AQSA)
-- WiCyS - Women in Cybersecurity (2019-Present)
-- ISACA (Information Systems Audit and Control Association, Inc.) – Puget Sound Chapter (2019-Present)
-- International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019)
-- UW Center for Communication, Difference and Equity (CCDE) Collaborative Project Scholar (2017-2018)
-- Recipient of the Dean's Fellowship at the UW Information School (2017-2019)
-
-
+# Connect With Me
+- CV: Available upon request.
+- Email: lovely.f.domingo@gmail.com
+- Twitter: https://www.twitter.com/wandermiles
+- LinkedIn: https://linkedin.com/in/lovelyd
+- Medium: https://medium.com/@wandermiles
 
 Last Updated 28 March 2021
 L.F.Domingo
