@@ -1,5 +1,5 @@
 # Hello
-My name is Lovely-Frances Domingo. I am an information security/information assurance consultant with a background in nonprofits, community technology, and STEM education. I have my MS in Information Management (UW iSchool) and BA in English, minor in History from the University of Washington. I was an International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019) and affiliated with the UW Center for Communication, Difference and Equity (CCDE) as a Collaborative Project Scholar (2017-2018).
+My name is Lovely-Frances Domingo. I am an information security/information assurance consultant with a background in nonprofits, community technology, and STEM education. I have my MS in Information Management (UW iSchool) and BA in English, minor in History from the University of Washington. I was an International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019) and affiliated with the UW Center for Communication, Difference and Equity (CCDE) as a Collaborative Project Scholar (2017-2018). I love basketball--especially women's basketball and the WNBA--and you might catch me tweeting about it or playing pick-up/league game at my local gym (pre-COVID).
 
 In fall 2021, I'm starting my PhD in Information Studies at the University of Maryland, College Park. :)
 
@@ -9,9 +9,9 @@ I’m interested in the intersections among emerging technologies, systems & inf
 See also: information security, risk, privacy, digital equity, urban planning, ‘smart’ cities initiatives, ubiquitous computing, critical infrastructure, ICT4D
 
 ## Published and Non-Published Works
-- Samford, H. and Domingo, L.F. (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
-- Crooks, E., Domingo. L.F., Guan, Y., & Saxena. H. (2019) “UX Design for Asset Inventory and Vulnerability Management” Capstone Project. <https://ischool.uw.edu/capstone/projects/2019/ux-design-asset-inventory-and-vulnerability-management>
-- Crooks, E., Cross, I., Domingo L.F. (2019) "Seattle Police Department Use of Force Visualization." Created for an interdisciplinary UW course - Technologies of the City (UW Information School, UW Urban Planning and Design). <https://public.tableau.com/profile/ian.cross#!/vizhome/SPDUseofForce/SPD-UseofForceRd_2>
+- Samford, H. and **Domingo, L.F.** (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
+- Crooks, E., **Domingo. L.F.**, Guan, Y., & Saxena. H. (2019) “UX Design for Asset Inventory and Vulnerability Management” Capstone Project. <https://ischool.uw.edu/capstone/projects/2019/ux-design-asset-inventory-and-vulnerability-management>
+- Crooks, E., Cross, I., **Domingo L.F.** (2019) "Seattle Police Department Use of Force Visualization." Created for an interdisciplinary UW course - Technologies of the City (UW Information School, UW Urban Planning and Design). <https://public.tableau.com/profile/ian.cross#!/vizhome/SPDUseofForce/SPD-UseofForceRd_2>
 - Domingo, L.F. (2019) "Sue Bird: Mask On or Mask Off?" Created for Intro to Visualization course (UW Information School). <https://public.tableau.com/profile/l.frances.domingo#!/vizhome/589_15532471903310/SueBirdMaskonorOff>
 - Domingo, L.F. (2019) “Urban Resilience Through Smart Cities Initiatives in Southeast Asia.” March 10.
 - Domingo, L.F. (2019). “Emerging Artificial Intelligence Issues: Discussion from the Third Cybersecurity and Technology Futures Event.” UW Jackson School’s International Policy Institute. March 15. <https://jsis.washington.edu/news/emerging-artificial-intelligence-issues-discussion-from-the-third-cybersecurity-and-technology-futures-event>
@@ -19,7 +19,6 @@ See also: information security, risk, privacy, digital equity, urban planning, �
 - Domingo, L.F. (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
 
 # Connect With Me
-- CV: Available upon request.
 - Twitter: <https://www.twitter.com/wandermiles>
 - LinkedIn: <https://linkedin.com/in/lovelyd>
 - Medium: <https://medium.com/@wandermiles>
