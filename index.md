@@ -4,7 +4,7 @@ My name is Lovely-Frances Domingo. I am an information security/information assu
 In fall 2021, I'm starting my PhD in Information Studies at the University of Maryland, College Park. :)
 
 # Research
-I’m interested in the intersections among emerging technologies, systems & infrastructures, information security, and urban resilience. I look at initiatives meant to develop and build urban resilience – the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I am particularly interested in examining the role of power, politics, and culture that play into technology adoption to understand potential harms and vulnerabilities and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
+I’m interested in the intersections among emerging technologies, systems & infrastructures, information security, and urban resilience. I look at initiatives meant to develop and build urban resilience – the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, pandemic, etc). I am particularly interested in examining the role of power, politics, and culture that play into technology adoption to understand potential harms and vulnerabilities and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
 
 See also: information security, risk, privacy, digital equity, urban planning, ‘smart’ cities initiatives, ubiquitous computing, critical infrastructure, ICT4D
 
