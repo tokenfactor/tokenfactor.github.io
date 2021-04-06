@@ -1,10 +1,10 @@
 # Hello
-My name is Lovely-Frances Domingo. I am an information security/information assurance consultant, formerly an educator and technology programs coordinator for a local community center in Seattle. I am an alumna of University of Washington (BA English, minor in History; MS Information Management) where I was an International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019) and a Collaborative Project Scholar for the UW Center for Communication, Difference and Equity (CCDE).
+My name is Lovely-Frances Domingo. I am an information security/information assurance consultant, formerly an educator and technology programs coordinator for a local community center in Seattle. I have my MS in Information Management (UW iSchool) and BA in English, minor in History from the University of Washington. I was affiliated with the International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019), the UW Center for Communication, Difference and Equity (CCDE) as a Collaborative Project Scholar (2017-2018), and ISACA Student Chapter - UW (2018-2019).
 
-Starting fall 2021, I'm starting my PhD at [TBA]. :)
+In fall 2021, I'm starting my PhD in Information Studies at the University of Maryland, College Park. :)
 
 # Research
-I’m interested in the intersections among emerging technologies, systems & infrastructures, information security, and urban resilience. I look at initiatives meant to develop and build urban resilience – the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I examine the role of power, economics, politics, and culture, and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
+I’m interested in the intersections among emerging technologies, systems & infrastructures, information security, and urban resilience. I look at initiatives meant to develop and build urban resilience – the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, etc). I am particularly interested in examining the role of power, politics, and culture that play into technology adoption to understand potential harms and vulnerabilities and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
 
 See also: information security, risk, privacy, digital equity, urban planning, ‘smart’ cities initiatives, ubiquitous computing, critical infrastructure, ICT4D
 
@@ -24,4 +24,4 @@ See also: information security, risk, privacy, digital equity, urban planning, �
 - LinkedIn: <https://linkedin.com/in/lovelyd>
 - Medium: <https://medium.com/@wandermiles>
 
-Last Updated 28 March 2021 L.F.Domingo
+Last Updated 05 April 2021 L.F.Domingo
