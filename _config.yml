@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
 title: lovely f. domingo
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
