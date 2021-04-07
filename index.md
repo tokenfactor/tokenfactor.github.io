@@ -3,7 +3,7 @@
 <p align="justify">
 My name is Lovely-Frances Domingo. I am an information security/information assurance consultant with a background in nonprofits, community technology, and STEM education. I have my MS in Information Management (UW iSchool) and BA in English, minor in History from the University of Washington. I was an International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019) and affiliated with the UW Center for Communication, Difference and Equity (CCDE) as a Collaborative Project Scholar (2017-2018). I love basketball--especially women's basketball and the WNBA--and you might catch me tweeting about it or playing pick-up/league game at my local gym (pre-COVID).
 
-In fall 2021, I'm starting my PhD in Information Studies at the University of Maryland, College Park. :
+In fall 2021, I'm starting my PhD in Information Studies at the University of Maryland, College Park. :woman_student:
   
 ## Research
 <p align="justify">
