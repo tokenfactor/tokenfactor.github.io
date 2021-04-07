@@ -11,7 +11,7 @@ I’m interested in the intersections among emerging technologies, systems & inf
 
 See also: information security, risk, privacy, digital equity, urban planning, ‘smart’ cities initiatives, ubiquitous computing, critical infrastructure, ICT4D
 
-## Some Things I've Written
+## Some Things I've Worked On
 
 - Samford, H. and **Domingo, L.F.** (2019) “The Political Geography and Environmental Impacts of Cryptocurrency Mining.” UW Jackson School’s International Policy Institute. July 10. <https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining>
 - Crooks, E., **Domingo. L.F.**, Guan, Y., & Saxena. H. (2019) “UX Design for Asset Inventory and Vulnerability Management” Capstone Project. <https://ischool.uw.edu/capstone/projects/2019/ux-design-asset-inventory-and-vulnerability-management>
