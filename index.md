@@ -1,7 +1,7 @@
 ## About Me
 <img src="https://raw.githubusercontent.com/tokenfactor/tokenfactor.github.io/master/docs/assets/img/IMG_1477.jpg" height="250" align="right">
 
-My name is Lovely-Frances Domingo. I am an information security/information assurance consultant with a background in nonprofits, community technology, and STEM education. I have my MS in Information Management (UW iSchool) and BA in English, minor in History from the University of Washington. I was an International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019) and affiliated with the UW Center for Communication, Difference and Equity (CCDE) as a Collaborative Project Scholar (2017-2018). I love basketball--especially women's basketball and the WNBA--and you might catch me tweeting about it or playing pick-up/league game at my <a href="http://www.seattlebasketballclub.org" target="new">local basketball club</a> (pre-COVID).
+My name is Lovely-Frances Domingo. I am an information security/information assurance consultant with a background in nonprofits, community technology, and STEM education. I have my MS in Information Management (UW iSchool) and BA in English, minor in History from the University of Washington. I was an International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019) and affiliated with the UW Center for Communication, Difference and Equity (CCDE) as a Collaborative Project Scholar (2017-2018). I love basketball--especially women's basketball and the WNBA--and you might catch me tweeting about it or playing pick-up/league game with my <a href="http://www.seattlebasketballclub.org" target="new">local basketball club</a> (pre-COVID).
 
 In fall 2021, I'm starting my PhD in Information Studies at the University of Maryland, College Park.
   
@@ -9,7 +9,7 @@ In fall 2021, I'm starting my PhD in Information Studies at the University of Ma
 
 I’m interested in the intersections among emerging technologies, systems & infrastructures, information security, and urban resilience. I look at initiatives meant to develop and build urban resilience – the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, pandemic, etc). I am particularly interested in examining the role of power, politics, and culture that play into technology adoption to understand potential harms and vulnerabilities and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
 
-See also: information security, risk, privacy, digital equity, urban planning, ‘smart’ cities initiatives, ubiquitous computing, critical infrastructure, ICT4D
+See also: ethics and values in design, information security, risk, privacy, digital equity, urban planning, ‘smart’ cities initiatives, ubiquitous computing, cyber physical infrastructure, ICT4D
 
 ## Some Things I've Worked On
 
