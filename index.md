@@ -8,7 +8,7 @@ Professionally, I worked as an information security/information assurance consul
 I watch a lot of women's sports, especially women's basketball and the WNBA, and you might catch me tweeting about it or playing pick-up/league basketball game at a local gym.
 
 ## 
-- <a href="/research.md">Research</a>
+- <a href="https://tokenfactor.github.io/research.md">Research</a>
 - <a href="https://medium.com/@wandermiles">Blog</a>
 - <a href="https://www.twitter.com/wandermiles">Twitter</a>
 - <a href="https://linkedin.com/in/lovelyd">LinkedIn</a>
