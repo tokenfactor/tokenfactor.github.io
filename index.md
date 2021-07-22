@@ -1,9 +1,7 @@
 ## About Me
 <img src="https://raw.githubusercontent.com/tokenfactor/tokenfactor.github.io/master/docs/assets/img/IMG_1477.jpg" height="250" align="right">
 
-My name is Lovely-Frances Domingo. 
-
-I'm an incoming PhD student in Information Studies at the University of Maryland, College Park. I have my MS in Information Management (UW iSchool) and BA in English, minor in History from the University of Washington. I served as an International Policy Institute (IPI) Cybersecurity Fellow at the UW Jackson School of International Studies (2018-2019), Community Technology Intern for the City of Seattle (2017-2018) and was affiliated with the UW Center for Communication, Difference and Equity (CCDE) as a Collaborative Project Scholar (2017-2018).
+My name is Lovely-Frances Domingo. I'm an incoming PhD student in Information Studies at the University of Maryland, College Park. I have my MS in Information Management (UW iSchool) and BA in English, minor in History from the University of Washington. 
 
 My professional experience include working as a cybersecurity consultant where I performed PCI DSS compliance assessments for various cloud-based tech companies. Additionally, I have experience leading nonprofits, community technology programs, and background in STEM education.  
 
