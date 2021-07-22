@@ -20,7 +20,7 @@ See also: ethics and values in design, information security, risk, privacy, digi
 
 
 ## 
-- <a href="index.md">Home</a>
+- <a href="index.html">Home</a>
 - <a href="https://medium.com/@wandermiles">Blog</a>
 - <a href="https://www.twitter.com/wandermiles">Twitter</a>
 - <a href="https://linkedin.com/in/lovelyd">LinkedIn</a>
