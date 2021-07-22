@@ -13,7 +13,7 @@ I watch a lot of women's sports, especially women's basketball and the WNBA, and
 - <a href="https://www.twitter.com/wandermiles">Twitter</a>
 - <a href="https://linkedin.com/in/lovelyd">LinkedIn</a>
 
-## Links
+## Contact
 You can contact me by email at lovely (at) umd (dot) edu.
 
 <sub>Last Updated 21 July 2021 L.F.Domingo</sub>
