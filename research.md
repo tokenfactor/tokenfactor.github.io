@@ -19,7 +19,7 @@ See also: ethics and values in design, information security, risk, privacy, digi
 - **Domingo, L.F.** (2018) “Flashcards for Universal and Inclusive STEM.” Featured in Age of Awareness blog (Medium). December 30. <https://medium.com/age-of-awareness/flashcards-for-universal-inclusive-stem-b93792a047e9>
 
 
-## 
+## Links
 - <a href="index.html">Home</a>
 - <a href="https://medium.com/@wandermiles">Blog</a>
 - <a href="https://www.twitter.com/wandermiles">Twitter</a>
