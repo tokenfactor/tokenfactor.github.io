@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Research
 
 I’m interested in the intersections between emerging technologies, critical systems & infrastructures, information security, and urban resilience. I look at initiatives meant to develop and build urban resilience – the capacity of cities to withstand various types of disruptions caused by rapid urbanization and disasters (financial, cyber warfare, climate change, pandemic, etc). I am particularly interested in examining the role of power, politics, and culture that play into technology adoption to understand potential harms and vulnerabilities and the impact of tech adoption/tech-emboldened city initiatives on vulnerable populations across the globe.
