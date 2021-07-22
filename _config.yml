@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 title: welcome!
+
+relative_links:
+  enabled:     true
+  collections: false
