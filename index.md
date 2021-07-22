@@ -9,7 +9,7 @@ I watch a lot of women's sports, especially women's basketball and the WNBA, and
 
 ## 
 
-- <a href="https://github.com/tokenfactor/tokenfactor.github.io/blob/4eba8c160d65075830d7947485df1316852f80c9/research.md">Research</a>
+- <a href="/research.md">Research</a>
 - Placeholder for CV
 - <a href="https://medium.com/@wandermiles">Blog</a>
 - <a href="https://www.twitter.com/wandermiles">Twitter</a>
