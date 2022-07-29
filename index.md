@@ -1,7 +1,7 @@
 ## About Me
 <img src="https://raw.githubusercontent.com/tokenfactor/tokenfactor.github.io/master/docs/assets/img/IMG_1477.jpg" height="250" align="right">
 
-My name is Lovely-Frances Domingo. I'm an incoming PhD student in Information Studies at the University of Maryland, College Park.
+My name is Lovely-Frances Domingo. I'm a 2nd year doctoral student in Information Studies at the University of Maryland, College Park.
 
 ## Links 
 - <a href="https://www.lovelydomingo.com">My Website</a>
